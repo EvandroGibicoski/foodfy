@@ -7,15 +7,19 @@
 
 body {
      font-family: 'Roboto', sans-serif;
-     margin: 5vh auto;
+     margin: 0 auto;
 }
 header {
     max-width: 940px;
     margin: 0 auto;
      
 }
+
+header img {
+     margin: 30px 30px 0 0;
+}
 .about {
-     margin:  0 30px;
+     margin:  0px 30px 20px 50px;
 }
 
 .about, .receipes {
@@ -29,7 +33,7 @@ header {
      background-color:  #FBDFDB;
      max-width: 940px;
      height: 366px;
-     margin: 0 auto;
+     margin: 5vh auto;
      border-radius: 30px;
      
 }
@@ -39,11 +43,25 @@ header {
      margin-right: 100px;
      margin-top: 66px;
 }
+.wrapper-info {
+     width: 300px;
+     position: relative;
+     top: 117px;
+     left: 60px;
+}
 
-.wrapper strong {
-    margin: 117px 575px 211px 60px;
+.wrapper-info strong {
+     margin-bottom: 5px;
+     font-size: 32px;
+     line-height: 38px;
+     font-weight: bolder;
 }
-.wrapper p {
+
+.content {
+     position:;
+     top: 165px;
+     left: 60px;
 }
+
 
 
