@@ -1,0 +1,49 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+     margin: 0;
+     padding: 0;
+}
+
+body {
+     font-family: 'Roboto', sans-serif;
+     margin: 5vh auto;
+}
+header {
+    max-width: 940px;
+    margin: 0 auto;
+     
+}
+.about {
+     margin:  0 30px;
+}
+
+.about, .receipes {
+     font-size: 16px;
+     line-height: 26px;
+     text-decoration: none;
+     color: #111111;
+}
+
+.wrapper {
+     background-color:  #FBDFDB;
+     max-width: 940px;
+     height: 366px;
+     margin: 0 auto;
+     border-radius: 30px;
+     
+}
+
+.wrapper img {
+     float: right;
+     margin-right: 100px;
+     margin-top: 66px;
+}
+
+.wrapper strong {
+    margin: 117px 575px 211px 60px;
+}
+.wrapper p {
+}
+
+
