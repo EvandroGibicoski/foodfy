@@ -16,13 +16,17 @@ header {
 }
 
 header img {
-     margin: 30px 30px 0 0;
-}
-.about {
-     margin:  0px 30px 20px 50px;
+     margin: 20px auto;
 }
 
-.about, .receipes {
+.links {
+     position: relative;
+     bottom: 45px;
+     left: 150px;
+}
+
+.links a {
+     margin: 0 30px;
      font-size: 16px;
      line-height: 26px;
      text-decoration: none;
@@ -111,12 +115,16 @@ header img {
 footer {
      background: #EEEEEE;
      width: 100%;
-     min-height: 62px;
-     
-     
+     height: 62px;  
 }
 
-footer p {
+
+.footer-info {
+     position: relative;
+     top: 23px;
+}
+
+.footer-info p {
      text-align: center;
      font-size: 14px;
      color: #999999;
