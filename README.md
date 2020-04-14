@@ -1,5 +1,8 @@
 <h1 align="center">
-    <img alt="" src="" width="400px" />
+    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="500px" />
+</h1>
+
+
 </h1  align="center">
 <h1>Foodfy Application</h1>
 
