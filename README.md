@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Launchbase" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRocketseat%2Fbootcamp-launchbase-desafios-02&psig=AOvVaw1EwgZe7FqORcy1WHLchJ-H&ust=1586955560430000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjGsLL85-gCFQAAAAAdAAAAABAD" width="500px" />
+    <img src="https://repository-images.githubusercontent.com/221045496/c6393600-201d-11ea-9fb5-f3f7c763bd2f" width="100%" />
 </h1>
 
 <h1 align="center>
-   <img alt="logo-foodly" src="https://drive.google.com/open?id=19tY4AvM9wfjPyFGmQ09XvMAFvBOmrxPI">
+   <img src="https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/layouts/assets/logo.png">
 </h1>
 
  <h2>An application of the receipes, building during the bootcamp of the launchBase.</h2>
