@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px"/>
+    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
 </h1>
 
-<h1 align="center>
-           Foodfy App
-</h1>
-
- <h2>An application of the receipes, building during the bootcamp of the launchBase.</h2>
+<h3 align="center">
+  Foodfy
+</h3>  
+           
+<h3>An application of the receipes, building during the bootcamp of the launchBase.</h3>
