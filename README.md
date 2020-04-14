@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="500px" />
+    <img alt="Launchbase" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRocketseat%2Fbootcamp-launchbase-desafios-02&psig=AOvVaw1EwgZe7FqORcy1WHLchJ-H&ust=1586955560430000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjGsLL85-gCFQAAAAAdAAAAABAD" width="500px" />
 </h1>
 
 <h1 align="center>
