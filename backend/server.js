@@ -7,7 +7,7 @@ const recipes = require('./data');
 server.use(express.static('public'));
 server.use(express.static('assets'));
 
-server.set("view engine", "html");
+server.set("view engine", "njk");
 
 nunjucks.configure("views", {
      express:server,
@@ -25,6 +25,13 @@ server.get("/about", function(req, res) {
 
 server.get("/recipes", function(req, res) {
      return res.render("recipes", { items: recipes });
+});
+
+server.get("/recipe/:index", function(req, res) {
+     const recipeIndex = req.params.index;
+
+     const recipes = [];
+     return res.render(recipes[recipeIndex]);
 });
 
 server.listen(3000, function() {
