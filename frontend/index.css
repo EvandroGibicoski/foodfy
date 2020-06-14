@@ -73,7 +73,9 @@ header img {
 }
 
 .menu-info {
-     margin: 25px 195px;
+     max-width: 940px;
+     margin: 24px auto;
+     text-align: left;
      
 }
 

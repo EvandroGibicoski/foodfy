@@ -5,7 +5,7 @@ for(let card of cards) {
     card.addEventListener("click", function() {
         const imageId = card.getAttribute('id');
         modelOverlay.classList.add('active');
-        modelOverlay.querySelector('img').src = `../assets/${imageId}`;
+        modelOverlay.querySelector('img').src = `./assets/${imageId}`;
     });
 };
 
