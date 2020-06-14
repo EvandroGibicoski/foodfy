@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Launchbase" src="https://github.com/gibifyOfficial/foodfy/blob/master/frontend/assets/foodfy-template.png" width="400px" />
+    <img alt="Launchbase" src="https://github.com/gibifyOfficial/foodfy/blob/master/frontend/assets/foodfy-template.png" width="900px" />
 </h1>
 <h3 align="center">
   Foodfy
