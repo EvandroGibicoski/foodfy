@@ -12,9 +12,6 @@
   #### Este Projeto está sendo construindo no Bootcamp [launchBase](https://rocketseat.com.br/launchbase) da [Rocketseat](https://rocketseat.com.br/), ministrado pelo Instrutor [Mayk Brito](https://github.com/maykbrito).
   
  # Tecnologias usadas no Projeto:
- * [JavaScript](https://www.javascript.com/)
- * [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
- * [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
 
   <p align="center">
   <a href="LICENSE" >
