@@ -16,7 +16,7 @@ nunjucks.configure("src/app/views", {
 
 
 
-server.listen(3000, function() {
+server.listen(3333, function() {
     console.log({
         "name": "server",
         "situation": "running"
