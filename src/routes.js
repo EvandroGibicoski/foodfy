@@ -10,20 +10,21 @@ routes.get("/", function(req, res)  {
 });
 
 routes.get("/home", function(req, res)  {
-    return res.render("home", { recipes: data });
+    return res.render("main/home", { recipes: data });
 });
 
 routes.get("/about", function(req, res)  {
-    return res.render("about");
+    return res.render("main/about");
 });
 
 routes.get("/recipesList", function(req, res) {
-    return res.render("recipesList", { recipes: data });
+    return res.render("main/recipesList", { recipes: data });
 });
 
-routes.get("/recipes/:index", mainController.show );
+routes.get("/recipes/:index", mainController.show);
 
-routes.get("/admin/recipes", recipesController.create);
+routes.get("/admin/recipes", recipesController.index);
+routes.get("/admin/recipes/create", recipesController.create);
 
 
 module.exports = routes;
