@@ -26,5 +26,7 @@ routes.get("/recipes/:index", mainController.show);
 routes.get("/admin/recipes", recipesController.index);
 routes.get("/admin/recipes/create", recipesController.create);
 
+routes.post("/admin/recipes", recipesController.post);
+
 
 module.exports = routes;
